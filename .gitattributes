@@ -1,0 +1,10 @@
+public/*.html linguist-vendored
+
+src/*.ts linguist-detectable
+*.woff2 binary
+
+*.ts linguist-detectable
+
+*.gif binary
+*.ico binary
+# eof 3705b8fd
